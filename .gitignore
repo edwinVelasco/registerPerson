@@ -1,1 +1,5 @@
 .idea/
+/static/app/
+/static/admin/
+/static/import_export/
+/static/grapelli/
