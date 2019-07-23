@@ -1,0 +1,4 @@
+django-grappelli==2.13.1
+django-import-export==1.2.0
+Django==2.2.3
+setuptools==41.0.1
