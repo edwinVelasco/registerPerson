@@ -25,7 +25,7 @@ SECRET_KEY = '+#n&*ic@im6yi29rbym$49+61!$p=6np5@@$jfvqs$@qzh9_ul'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ewolf.pythonanywhere.com', '*']
 
 
 # Application definition
